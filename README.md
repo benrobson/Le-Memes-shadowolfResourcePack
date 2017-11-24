@@ -9,13 +9,17 @@ All .pngs and images are in a 256x256
 Golden Apple: iDubbbz I'm Gay face
 
 <h3>Records</h3>
-11: Ocean Man
-13: Living in the Sunlight
-blocks: In the Summertime
-cat: The Sex Offender Shuffle
+<ul>
+	<li>11: Ocean Man</li>
+	<li>13: Living in the Sunlight</li>
+	<li>blocks: In the Summertime</li>
+	<li>cat: The Sex Offender Shuffle</li>
+</ul>
 
 <h3>Music</h3>
-calm1: Soviet National Anthem
-calm2: The Sound Of Silence
-calm3: Tomfoolery
-hal1: Thomas the Tank Engine Theme
+<ul>
+	<li>calm1: Soviet National Anthem</li>
+	<li>calm2: The Sound Of Silence</li>
+	<li>calm3: Tomfoolery</li>
+	<li>hal1: Thomas the Tank Engine Theme</li>
+</ul>
