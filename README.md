@@ -6,7 +6,7 @@ All .pngs and images are in a 256x256
 
 
 <h3>Textures</h3>
-Golden Apple: iDubbbz I'm Gay face
+	<li>Golden Apple: iDubbbz I'm Gay face</li>
 
 <h3>Records</h3>
 <ul>
