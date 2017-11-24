@@ -42,4 +42,8 @@ This is a little resource pack that I am making for le memes
 	<li>piano1: Tunak Tunak Tun</li>
 	<li>piano2: All Star</li>
 	<li>piano3: Sandstorm</li>
+	<li>menu1: Only Time</li>
+	<li>menu2: Mom's Spaghetti</li>
+	<li>menu3: Bring Me To Life</li>
+	<li>menu4: Ding Dong Song</li>
 </ul>
