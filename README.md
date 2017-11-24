@@ -6,7 +6,9 @@ All .pngs and images are in a 256x256
 
 
 <h3>Textures</h3>
+<ul>
 	<li>Golden Apple: iDubbbz I'm Gay face</li>
+</ul>
 
 <h3>Records</h3>
 <ul>
@@ -16,7 +18,7 @@ All .pngs and images are in a 256x256
 	<li>cat: The Sex Offender Shuffle</li>
 </ul>
 
-<h3>Music</h3>
+<h3>Music</h3> 	
 <ul>
 	<li>calm1: Soviet National Anthem</li>
 	<li>calm2: The Sound Of Silence</li>
