@@ -2,8 +2,10 @@
 This is a little resource pack that I am making for le memes
 
 <h3>Additional Information</h3>
-All .pngs and images are in a 256x256
-
+<ul>
+	<li>All .pngs and images are in a 256x256</li>
+	<li>Text on items have been changed via the language file</li>
+</ul>
 
 <h3>Textures</h3>
 <ul>
