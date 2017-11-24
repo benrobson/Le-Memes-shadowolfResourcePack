@@ -46,4 +46,10 @@ This is a little resource pack that I am making for le memes
 	<li>menu2: Mom's Spaghetti</li>
 	<li>menu3: Bring Me To Life</li>
 	<li>menu4: Ding Dong Song</li>
+	<li>creative1: Dragostea Din Tei</li>
+	<li>creative2: The Mine Song</li>
+	<li>creative3: Cooking by the Book</li>
+	<li>creative4: Heyayayay</li>
+	<li>creative5: Photograph</li>
+	<li>creative6: I Keep Holding On (My Hope Will Never Die)</li>
 </ul>
