@@ -10,13 +10,14 @@ This is a little resource pack that I am making for le memes
 	<li>Text on items have been changed via the language file</li>
 </ul>
 
-<h3>Textures</h3>
+<h2>Textures</h2>
 <ul>
 	<li>Golden Apple: iDubbbz I'm Gay face [Object Name: Golden Gayapple]</li>
 	<li>Raw Cod: Like Button [Object Name: Raw Like Button]</li>
 	<li>Cooked Cod: Brown shaded Like Button [Object Name: Cooked Like Button]</li>
 </ul>
 
+<h2>Sounds</h2>
 <h3>Records</h3>
 <ul>
 	<li>11: Ocean Man</li>
@@ -33,7 +34,7 @@ This is a little resource pack that I am making for le memes
 	<li>ward: Curb Your Enthusiasm Theme</li>
 </ul>
 
-<h3>Music</h3> 	
+<h3>Background Music</h3> 	
 <ul>
 	<li>calm1: Soviet National Anthem</li>
 	<li>calm2: The Sound Of Silence</li>
@@ -57,4 +58,9 @@ This is a little resource pack that I am making for le memes
 	<li>creative4: Heyayayay</li>
 	<li>creative5: Photograph</li>
 	<li>creative6: I Keep Holding On (My Hope Will Never Die)</li>
+</ul>
+
+<h3>Items</h3> 	
+<ul>
+	<li>Drinking a Potion: Covers all 9000 Tastebuds</li>
 </ul>
