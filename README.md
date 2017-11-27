@@ -1,4 +1,4 @@
-# shadowolfResourcePack
+# Le-Memes-shadowolfResourcePack
 This is a little resource pack that I am making for le memes
 
 <h3>Additional Information</h3>
@@ -9,7 +9,7 @@ This is a little resource pack that I am making for le memes
 
 <h3>Textures</h3>
 <ul>
-	<li>Golden Apple: iDubbbz I'm Gay face</li>
+	<li>Golden Apple: iDubbbz I'm Gay face [Object Name: Gayolden Apple]</li>
 </ul>
 
 <h3>Records</h3>
