@@ -1,5 +1,8 @@
-# shadowolfResourcePack
+# Le-Memes-shadowolfResourcePack
 This is a little resource pack that I am making for le memes
+
+<h2>Introduction</h2>
+<p>This is my first resource pack. The theme of this pack is 'memes'. All of the features and textures of this pack are listed down below. Offical releases of the resource pack will be listed in the Releases tab https://github.com/shadowolfyt/Le-Memes-shadowolfResourcePack/releases</p>
 
 <h3>Additional Information</h3>
 <ul>
@@ -9,7 +12,9 @@ This is a little resource pack that I am making for le memes
 
 <h3>Textures</h3>
 <ul>
-	<li>Golden Apple: iDubbbz I'm Gay face</li>
+	<li>Golden Apple: iDubbbz I'm Gay face [Object Name: Golden Gayapple]</li>
+	<li>Raw Cod: Like Button [Object Name: Raw Like Button]</li>
+	<li>Cooked Cod: Brown shaded Like Button [Object Name: Cooked Like Button]</li>
 </ul>
 
 <h3>Records</h3>
